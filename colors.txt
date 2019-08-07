@@ -3,3 +3,5 @@ red
 .orange
 filetoignore.properties
 White
+Amber
+Black coffee
